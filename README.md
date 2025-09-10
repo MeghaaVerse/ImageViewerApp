@@ -20,7 +20,7 @@ This project demonstrates **Qt Widgets**, **signals and slots**, and basic image
 
 | Original | Brightened | Darkened | Slide_Demo |
 |----------|------------|----------| ----------- |
-| ![Original](Screenshots/Original_Image.jpg) | ![Brightened](Screenshots/Brightened_Image.jpg) | ![Darkened](screenshots/Darkened_Image.jpg) | ![Slide_Demo](Screenshots/brightness_slider_demo.mp4)| 
+| ![Original](Screenshots/Original_Image.jpg) | ![Brightened](Screenshots/Brightened_Image.jpg) | ![Darkened](Screenshots/Darkened_Image.jpg) | ![Slide_Demo](Screenshots/brightness_slider_demo.mp4)| 
 
 
 ---
