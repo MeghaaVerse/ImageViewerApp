@@ -18,9 +18,14 @@ This project demonstrates **Qt Widgets**, **signals and slots**, and basic image
 
 ## Demo Screenshots
 
-| Original | Brightened | Darkened | Slide_Demo |
-|----------|------------|----------| ----------- |
-| ![Original](Screenshots/Original_Image.jpg) | ![Brightened](Screenshots/Brightened_Image.jpg) | ![Darkened](Screenshots/Darkened_Image.jpg) | ![Slide_Demo](Screenshots/brightness_slider_demo.mp4)| 
+| Original | Brightened | Darkened |
+|----------|------------|----------| 
+| ![Original](Screenshots/Original_Image.jpg) | ![Brightened](Screenshots/Brightened_Image.jpg) | ![Darkened](Screenshots/Darkened_Image.jpg) | 
+
+### Video Demo
+
+- **Full MP4 Video:**  
+[Watch the demo video](Screenshots/brightness_slider_demo.mp4)
 
 
 ---
